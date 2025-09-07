@@ -1,4 +1,3 @@
-```markdown
 # 📩 Smart Email Spam Classifier Web App
 
 A machine learning powered **Spam Email Classifier** built with **Streamlit** 🚀.  
@@ -36,8 +35,7 @@ This web app helps in classifying emails/messages as **Spam** or **Not Spam** us
 
 ````
 
----
-
+````
 ## ⚡ Installation & Setup (Local)
 
 1. **Clone the repo**
@@ -85,6 +83,7 @@ You can try the live app here 👉 [Live Demo](https://rou-smart-email-spam.stre
   nltk.download("punkt_tab")
   nltk.download("stopwords")
   ```
+
 * For stability, you can pin **NLTK version 3.8.1** in `requirements.txt`.
 
 ---
@@ -92,6 +91,7 @@ You can try the live app here 👉 [Live Demo](https://rou-smart-email-spam.stre
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+
 <img width="1868" height="816" alt="image" src="https://github.com/user-attachments/assets/75cf73e0-af6f-459a-bc39-cc9f4a6983af" />
 
 ---
@@ -112,3 +112,5 @@ This project is licensed under the **MIT License**.
 ### 👨‍💻 Author
 
 Developed with ❤️ by **[Rou45](https://github.com/Rou45)**
+
+```
