@@ -9,6 +9,9 @@ from nltk.stem.porter import PorterStemmer
 import plotly.graph_objects as go
 from streamlit_lottie import st_lottie
 import requests
+nltk.download('punkt')
+nltk.download('stopwords')
+
 
 # Initialize stemmer
 ps = PorterStemmer()
